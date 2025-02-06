@@ -1,0 +1,20 @@
+import { techhunt } from "./techhunt";
+import { omegatrix } from "./omegatrix";
+import { codebee } from "./codebee";
+import { hackstorm } from "./hackstorm";
+import { technomania } from "./technomania";
+import { rocombat } from "./rocombat";
+import { ronavigator } from "./ronavigator";
+import { rosoccer } from "./rosoccer";
+import { roterrance } from "./roterrance";
+import { aquarace } from "./aquarace";
+import { efootball } from "./efootball";
+import { fifa } from "./fifa";
+import { khet } from "./khet";
+import { passionwithreels } from "./passionwithreels";
+import { shutterfusion } from "./shutterfusion";
+import { codebeejr } from "./codebeejr";
+import { technomaniajr } from "./technomaniajr";
+import { hackstormjr } from "./hackstormjr";
+
+export const allEvents = new Map(Object.entries({ techhunt, omegatrix, codebee, hackstorm, technomania, rocombat, ronavigator, rosoccer, roterrance, aquarace, efootball, fifa, khet, passionwithreels, shutterfusion, codebeejr, technomaniajr, hackstormjr }));
