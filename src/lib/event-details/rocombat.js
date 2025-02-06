@@ -6,7 +6,7 @@ export const rocombat = {
     icon: "/assets/events/icons/rovers.png",
     description: "Ro-combat is an event where two huge metal masses clash together till an ultimatum. Bots are all manually operated and must be controlled wirelessly; no wired bots will be allowed.",
 
-    registrationLink: "",
+    registrationLink: "https://forms.gle/EwDHiq6haesjenKdA",
     prize: "Exciting Prizes",
     bppimtRegFees: "Coming Soon",
     outsideRegFees: "Coming Soon",

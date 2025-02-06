@@ -1109,7 +1109,7 @@ export const allTeams = [
         }
     },
     {
-        "teamName": "SCHOOL CONNECT PROGRAM",
+        "teamName": "BUDDING GENIUS",
         "members": {
             "faculty": [
                 {
