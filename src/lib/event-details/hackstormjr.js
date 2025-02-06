@@ -6,7 +6,7 @@ export const hackstormjr = {
     icon: "/assets/events/icons/budding.png",
     description: "illumIZen, the Management Game is an engaging and dynamic platform designed to foster teamwork, strategic thinking, and leadership skills among students. With a focus on both competition and learning, illumIZen aims to ignite innovation, enhance interpersonal skills, and cultivate a sense of camaraderie among young minds. Let the game begin!",
 
-    registrationLink: "https://forms.gle/DVgHqhSenj2h89RS8",
+    registrationLink: "https://forms.gle/Mj3P5p55BqUjFqM29",
     prize: "Exciting Prizes",
     bppimtRegFees: "",
     outsideRegFees: "No Registration Fee",

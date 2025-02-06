@@ -6,7 +6,7 @@ export const hackstorm = {
     icon: "/assets/events/icons/technicals.png",
     description: "Hack Storm is an exciting event where students can present their ideas or solutions using websites or apps based on given problem statements or their own concepts. Participants are encouraged to address real-world challenges and create impactful, innovative solutions to showcase their creativity, technical skills, and problem-solving abilities.",
 
-    registrationLink: "",
+    registrationLink: "https://forms.gle/kdcRUu1vSYVQEQXx7",
     prize: "Exciting Prizes",
     bppimtRegFees: "Coming Soon",
     outsideRegFees: "Coming Soon",

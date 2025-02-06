@@ -6,7 +6,7 @@ export const omegatrix = {
     icon: "/assets/events/icons/brain-teaser.png",
     description: "A dynamic mathematics and reasoning event crafted to ignite your curiosity and sharpen your problem-solving skills! With captivating puzzles, stimulating questions, and an exciting touch of AI/ML, this challenge promises to engage your mind. Open to students of all year. Join us, and let’s unlock the power of your mind!",
 
-    registrationLink: "",
+    registrationLink: "https://forms.gle/hBFsSzdnszCMGBXu9",
     prize: "Exciting Prizes",
     bppimtRegFees: "TBD",
     outsideRegFees: "TBD",
