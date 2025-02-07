@@ -1,4 +1,4 @@
-import { Inter, Roboto_Mono, Righteous, Actor, Poppins } from 'next/font/google'
+import { Inter, Roboto_Mono, Righteous, Actor, Poppins, Pixelify_Sans } from 'next/font/google'
 
 export const inter = Inter({
     subsets: ['latin'],
@@ -23,6 +23,12 @@ export const righteous = Righteous({
 })
 
 export const poppins = Poppins({
+    subsets: ['latin'],
+    display: 'swap',
+    weight: ["400", "500", "600", "700"],
+})
+
+export const pixelify = Pixelify_Sans({
     subsets: ['latin'],
     display: 'swap',
     weight: ["400", "500", "600", "700"],
