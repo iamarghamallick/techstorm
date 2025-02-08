@@ -45,13 +45,15 @@ const Header = () => {
                     transition={{ duration: 2 }}
                     className="logo-container flex gap-4"
                 >
-                    <Image
-                        src='/assets/logo/bppimt-logo.png'
-                        alt='bppimt'
-                        width={600}
-                        height={600}
-                        className='w-8 h-8 md:w-14 md:h-14 drop-shadow-lg'
-                    />
+                    <Link href='https://bppimt.ac.in' target='_blank'>
+                        <Image
+                            src='/assets/logo/bppimt-logo.png'
+                            alt='bppimt'
+                            width={600}
+                            height={600}
+                            className='w-8 h-8 md:w-14 md:h-14 drop-shadow-lg'
+                        />
+                    </Link>
                     <Image
                         src='/assets/logo/abhiyantran-logo.png'
                         alt='abhiyantran'
