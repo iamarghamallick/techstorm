@@ -744,8 +744,8 @@ export const allTeams = [
                     "phone": "8240616604"
                 },
                 {
-                    "name": "Sayan Kumar Ghosh",
-                    "department": "CSE",
+                    "name": "Subhajit Jana",
+                    "department": "",
                     "position": "volunteer",
                     "phone": ""
                 }

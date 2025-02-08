@@ -12,16 +12,10 @@ export const rosoccer = {
     outsideRegFees: "TBD",
     onspotReg: "TBD",
 
-    prelimsDate: "Coming Soon",
-    prelimsTiming: [
-        "Coming Soon",
-        "Coming Soon"
-    ],
-    finalsDate: "Coming Soon",
-    finalsTiming: [
-        "Coming Soon",
-        "Coming Soon"
-    ],
+    prelimsDate: "TBD",
+    prelimsTiming: ["TBD", "TBD"],
+    finalsDate: "TBD",
+    finalsTiming: ["TBD", "TBD"],
 
     rules: [
         {
@@ -75,7 +69,18 @@ export const rosoccer = {
         {
             "heading": "Scoring Rules",
             "content": [
-                "The team with the highest number of goals will be declared the winner.",
+                "Prelims - The driver has to traverse through the arena with the ball and score the maximum number of goals in the given time.",
+                "There will be a number of bricks with “+5” or “+10” on them.",
+                "If the robot touches any of the bricks, they indicate either “+5 seconds” or “+10 seconds” penalty to the robot’s time.",
+                "The final decision will be based on total time taken, i.e., 4 minutes + penalties and number of goals."
+            ]
+        },
+        {
+            "heading": "Knockout Round",
+            "content": [
+                "This will be 1 Vs 1, with the ball in the middle.",
+                "The total goals of the match will be checked.",
+                "The team having the highest goals will be declared as the winner of that match.",
                 "For tie-breaking, the golden goal wins."
             ]
         }
@@ -91,6 +96,17 @@ export const rosoccer = {
             name: "Srijan Manna",
             dept: "ECE",
             phone: "+91 8697727177"
+        }
+    ],
+
+    volunteers: [
+        {
+            name: "Somnath Chakraborty",
+            phone: "+91 8902211316"
+        },
+        {
+            name: "Prantik Ghosh",
+            phone: "+91 7890838048"
         }
     ],
 };
