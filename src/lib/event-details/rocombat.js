@@ -8,8 +8,8 @@ export const rocombat = {
 
     registrationLink: "https://forms.gle/EwDHiq6haesjenKdA",
     prize: "Exciting Prizes",
-    bppimtRegFees: "Coming Soon",
-    outsideRegFees: "Coming Soon",
+    bppimtRegFees: "",
+    outsideRegFees: "₹600",
     onspotReg: "TBD",
 
     prelimsDate: "Coming Soon",

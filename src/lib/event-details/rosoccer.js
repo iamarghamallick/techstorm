@@ -6,10 +6,10 @@ export const rosoccer = {
     icon: "/assets/events/icons/rovers.png",
     description: "Get ready for the ULTIMATE showdown in RO SOCCER! Two powerful robots, designed and controlled by brilliant minds, clash in an electrifying 1v1 battle. Watch as they unleash speed, agility, and precision to outsmart their rival and score the winning goal. Witness the thrill, strategy, and intensity of this robotic duel—don’t miss the action!",
 
-    registrationLink: "",
+    registrationLink: "https://forms.gle/D6BemzYhJnWu6qPi9",
     prize: "Exciting Prizes",
-    bppimtRegFees: "TBD",
-    outsideRegFees: "TBD",
+    bppimtRegFees: "",
+    outsideRegFees: "₹400",
     onspotReg: "TBD",
 
     prelimsDate: "TBD",

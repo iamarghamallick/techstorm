@@ -6,7 +6,7 @@ export const technomaniajr = {
     icon: "/assets/events/icons/budding.png",
     description: "It is a student-centered competition providing you a unique opportunity to showcase your innovation skills in hardware/physical model design in any area of science and technology towards achieving sustainable development Goals.",
 
-    registrationLink: "https://forms.gle/K7bW4i5ZNNqHeFw47",
+    registrationLink: "https://forms.gle/pa1X4gALddFEQ1H27",
     prize: "Exciting Prizes",
     bppimtRegFees: "",
     outsideRegFees: "No Registration Fee",

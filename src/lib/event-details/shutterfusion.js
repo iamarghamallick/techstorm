@@ -6,10 +6,10 @@ export const shutterfusion = {
     icon: "/assets/events/icons/creative.png",
     description: "'Shutter Fusion' is an exhilarating photography event where creativity meets technology! Showcase your talent by capturing stunning moments that blend innovation, art, and storytelling. Open to all photography enthusiasts, this competition celebrates unique perspectives and technical mastery. Join us to freeze time and craft memories that inspire and amaze!",
 
-    registrationLink: "",
+    registrationLink: "https://forms.gle/VHC2Z3XAUztE2s2U8",
     prize: "Exciting Prizes",
-    bppimtRegFees: "Coming Soon",
-    outsideRegFees: "Coming Soon",
+    bppimtRegFees: "₹50",
+    outsideRegFees: "₹60",
     onspotReg: "TBD",
 
     prelimsDate: "Coming Soon",

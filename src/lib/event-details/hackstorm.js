@@ -8,8 +8,8 @@ export const hackstorm = {
 
     registrationLink: "https://forms.gle/kdcRUu1vSYVQEQXx7",
     prize: "Exciting Prizes",
-    bppimtRegFees: "Coming Soon",
-    outsideRegFees: "Coming Soon",
+    bppimtRegFees: "₹80",
+    outsideRegFees: "₹100",
     onspotReg: "TBD",
 
     prelimsDate: "Coming Soon",

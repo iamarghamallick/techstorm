@@ -6,10 +6,10 @@ export const codebee = {
     icon: "/assets/events/icons/technicals.png",
     description: "When you're programming, you're creating a world. You're designing it, you're coding it, and you're testing it. Your code becomes the architecture of your creation, and each bug you find and fix makes the world more reliable and complete. Code-Bee is an offline coding event designed to test your logical, mathematical, and basic programming skills. Dive in to uncover the secrets of coding and emerge victorious with the best algorithm!",
 
-    registrationLink: "",
+    registrationLink: "https://bit.ly/bppimt_codebee",
     prize: "Exciting Prizes",
-    bppimtRegFees: "Coming Soon",
-    outsideRegFees: "Coming Soon",
+    bppimtRegFees: "₹80",
+    outsideRegFees: "₹100",
     onspotReg: "TBD",
 
     prelimsDate: "Coming Soon",

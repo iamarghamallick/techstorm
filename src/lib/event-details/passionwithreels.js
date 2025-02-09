@@ -6,10 +6,10 @@ export const passionwithreels = {
     icon: "/assets/events/icons/creative.png",
     description: "Are you a passionate storyteller who wants to showcase your creative storytelling skills? Join us for an exhilarating short movie making competition, 'Passion with Reels,' where imagination knows no bounds and storytelling comes alive through the magic of reels. This event promises a platform for participants to bring their cinematic vision to life. Let your passion for filmmaking shine through every frame, and get ready to mesmerize the world with your cinematic masterpiece!",
 
-    registrationLink: "https://forms.gle/bwgHAVfrHsUkFRRd8",
+    registrationLink: "https://forms.gle/1xN1s3iVuUfCBJfp6",
     prize: "Exciting Prizes",
-    bppimtRegFees: "Coming Soon",
-    outsideRegFees: "Coming Soon",
+    bppimtRegFees: "₹150",
+    outsideRegFees: "₹200",
     onspotReg: "TBD",
 
     prelimsDate: "Coming Soon",

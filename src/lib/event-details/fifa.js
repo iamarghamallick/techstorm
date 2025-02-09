@@ -6,10 +6,10 @@ export const fifa = {
     icon: "/assets/events/icons/games.png",
     description: "FIFA Showdown: The Ultimate Gaming Battle! 🎮 Gear up for an electrifying experience as we bring the world’s favorite football game to our tech event! Whether you're a gaming pro or a casual player, the FIFA Showdown promises heart-pounding excitement, intense rivalries, and unforgettable moments. 🌟\n\n🎯 What to Expect:\nEpic Matches: Compete against the best and climb the leaderboard in a thrilling knockout tournament.\nStunning Setups: Play on ultra-HD screens with cutting-edge gaming consoles for the ultimate immersive experience.\nExciting rewards await the champions! 🔥\n\n👥 Open to All: Everyone’s invited to join in the fun—cheer for your friends, join side challenges, or simply soak up the FIFA fever.\nMark your calendars and lace up your virtual boots. The FIFA Showdown is more than just a game; it’s a battle for glory. 🏆 Don’t miss out—this is where legends are made!",
 
-    registrationLink: "",
+    registrationLink: "https://forms.gle/vN4yNWc6z8KHFMUr8",
     prize: "Exciting Rewards",
-    bppimtRegFees: "TBD",
-    outsideRegFees: "TBD",
+    bppimtRegFees: "₹80",
+    outsideRegFees: "₹100",
     onspotReg: "TBD",
 
     prelimsDate: "Coming Soon",

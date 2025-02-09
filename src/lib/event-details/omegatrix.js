@@ -8,8 +8,8 @@ export const omegatrix = {
 
     registrationLink: "https://forms.gle/hBFsSzdnszCMGBXu9",
     prize: "Exciting Prizes",
-    bppimtRegFees: "TBD",
-    outsideRegFees: "TBD",
+    bppimtRegFees: "₹50",
+    outsideRegFees: "₹60",
     onspotReg: "TBD",
 
     prelimsDate: "Coming Soon",

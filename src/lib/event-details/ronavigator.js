@@ -6,10 +6,10 @@ export const ronavigator = {
     icon: "/assets/events/icons/rovers.png",
     description: "Ro-navigator is an exhilarating event that brings together top-notch line-following robots in a captivating competition. These robots showcase their precision, speed, and strategic abilities as they navigate through complex mazes. Spectators are treated to an exciting display of robotics prowess as these sleek machines race towards victory.",
 
-    registrationLink: "",
+    registrationLink: "https://forms.gle/sLAELvYitxwghKJu8",
     prize: "Exciting Prizes",
-    bppimtRegFees: "TBD",
-    outsideRegFees: "TBD",
+    bppimtRegFees: "",
+    outsideRegFees: "₹400",
     onspotReg: "TBD",
 
     prelimsDate: "Coming Soon",
