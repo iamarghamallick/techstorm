@@ -32,7 +32,7 @@ export const rocombat = {
                 "A team may comprise members from different colleges. No person shall be a member of multiple teams.",
                 "Teams have to show and declare ALL of their bots before their first match.",
                 "A controller/driver can't operate multiple bots.",
-                "No bots can be shared by two teams.",
+                "No bots can be shared by two teams during the event.",
                 "Robots constructed using LEGO kits, their spare parts, or any other ready-made mechanism are not allowed.",
                 "Use of pneumatics, hydraulics, lethal weapons like projectiles, acids, sharp cutters, strong electromagnets, tesla coil, fire, and EMP are strictly prohibited.",
                 "The bot should be wireless.",
@@ -56,7 +56,6 @@ export const rocombat = {
         {
             "heading": "Event Details",
             "content": [
-                "The event is conducted in knockout rounds in which two robots will compete against each other.",
                 "Total 3 minutes of gameplay to score points.",
                 "Scoring will be done on aggression, destruction, and control.",
                 "Immobility of any bot during a fight will be considered defeated."
