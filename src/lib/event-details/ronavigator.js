@@ -29,6 +29,7 @@ export const ronavigator = {
             "content": [
                 "Each participating team must adhere to the specified dimensions for their robot, ensuring it does not exceed 20 x 20 x 20 (length x width x height) dimensions.",
                 "A controller/driver can’t operate multiple bots. A single bot can’t be used by multiple teams.",
+                "A team cannot use a readymade Bot, Legocity Bot, and Kakarobot in the event.",
                 "There will be two rounds for this event:"
             ]
         },
@@ -50,7 +51,7 @@ export const ronavigator = {
                 "All robots must operate autonomously without any external control during the event.",
                 "A team cannot use a readymade Bot, Legocity Bot, or Kakarobot in the event.",
                 "The power supply for the robots must be strictly limited to the board and should not exceed 10-12V.",
-                "Teams are allowed a maximum of 4-5 participants, with each team responsible for the operation and management of their robot.",
+                "Teams are allowed a maximum of 5 participants, with each team responsible for the operation and management of their robot.",
                 "Only one robot per team is permitted for the competition for both rounds. The same robot cannot be used by multiple teams.",
                 "Teams must follow the track specifications provided, ensuring their robots are designed to navigate through a flex sheet arena with a white background and a 3 cm to 5 cm wide black path with gaps in between.",
                 "The track may feature various elements such as angles, curves, junctions, checkpoints, and circles, which the robots must navigate accurately.",
