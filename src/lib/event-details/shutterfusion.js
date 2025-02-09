@@ -12,11 +12,8 @@ export const shutterfusion = {
     outsideRegFees: "₹60",
     onspotReg: "TBD",
 
-    prelimsDate: "Coming Soon",
-    prelimsTiming: [
-        "Coming Soon",
-        "Coming Soon"
-    ],
+    prelimsDate: "No Prelims",
+    prelimsTiming: [],
     finalsDate: "Coming Soon",
     finalsTiming: [
         "Coming Soon",
