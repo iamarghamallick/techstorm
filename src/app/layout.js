@@ -1,4 +1,5 @@
-import localFont from "next/font/local";
+import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -6,20 +7,34 @@ import StarsBackground from "@/components/StarsBackground";
 import NextTopLoader from 'nextjs-toploader';
 import Loading from "@/components/Loading";
 
-const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist-sans",
-  weight: "100 900",
-});
-const geistMono = localFont({
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
-  weight: "100 900",
-});
-
 export const metadata = {
   title: "TECHSTORM 2.25",
   description: "Annual Technical Fest of BPPIMT - 2025",
+  openGraph: {
+    type: 'website',
+    url: 'https://techstorm.bppimt.ac.in/',
+    title: "TECHSTORM 2.25",
+    description: "The flagship technical fest of B. P. Poddar Institute of Management and Technology, inspired by the limitless potential of the metaverse. Celebrating its 12th edition in 2025, TECHSTORM transcends boundaries, blending innovation and virtual realms to ignite the spirit of technological brilliance like never before.",
+    images: [
+      {
+        url: 'https://techstorm.bppimt.ac.in/og-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'Techstorm 2.25',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: "TECHSTORM 2.25",
+    description: "The flagship technical fest of B. P. Poddar Institute of Management and Technology, inspired by the limitless potential of the metaverse. Celebrating its 12th edition in 2025, TECHSTORM transcends boundaries, blending innovation and virtual realms to ignite the spirit of technological brilliance like never before.",
+    images: [
+      {
+        url: 'https://techstorm.bppimt.ac.in/og-image.png',
+        alt: 'Techstorm 2.25',
+      },
+    ],
+  },
 };
 
 export default function RootLayout({ children }) {
@@ -49,6 +64,10 @@ export default function RootLayout({ children }) {
         <Loading />
 
         {children}
+
+        <Analytics />
+        <SpeedInsights />
+
         <Footer />
       </body>
     </html>
