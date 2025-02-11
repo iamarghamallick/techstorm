@@ -33,10 +33,10 @@ export default function Home() {
       <div className="mt-[60px] md:mt-24 container md:px-20">
         <Hero />
         <Details />
-        {/* <Gallery />
+        <Gallery />
         <Events />
         <Faq />
-        <Apk /> */}
+        <Apk />
       </div>
     </main>
   );
