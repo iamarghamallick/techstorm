@@ -25,6 +25,10 @@ export const technomania = {
 
     rules: [
         {
+            "heading": "Theme: Sustainable Development",
+            "content": []
+        },
+        {
             "heading": "General Rules",
             "content": [
                 "This is an offline event that will be held at B.P Poddar Institute of Management and Technology, Kolkata campus.",
@@ -40,7 +44,7 @@ export const technomania = {
 
                 "**Poster:**",
                 "1) Teams must prepare a poster that effectively explains their project’s purpose and benefits.",
-                "2) The poster can be either handmade (on art paper) or digitally created (using tools like Canva, Photoshop, etc.).",
+                "2) The poster can be either handmade (on art paper) or digitally created (using tools like Canva, Photoshop, etc.) and printed.",
                 "3) It should include a brief description, key features, and real-world impact of the model."
             ]
         },
