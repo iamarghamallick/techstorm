@@ -31,7 +31,6 @@ export const rocombat = {
                 "A team can have a minimum of two and a maximum of five members.",
                 "A team may comprise members from different colleges. No person shall be a member of multiple teams.",
                 "Teams have to show and declare ALL of their bots before their first match.",
-                "A controller/driver can't operate multiple bots.",
                 "No bots can be shared by two teams during the event.",
                 "Robots constructed using LEGO kits, their spare parts, or any other ready-made mechanism are not allowed.",
                 "Use of pneumatics, hydraulics, lethal weapons like projectiles, acids, sharp cutters, strong electromagnets, tesla coil, fire, and EMP are strictly prohibited.",
