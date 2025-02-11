@@ -14,11 +14,11 @@ const Details = () => {
                 className={`${righteous.className} date-time-container flex flex-col justify-center items-center relative pr-10 md:mr-6 md:py-2 md:w-[25%] md:h-full md:justify-around`}
             >
                 {/* Vertical Line */}
-                <span className="absolute right-0 top-1/2 transform -translate-y-1/2 h-3/5 w-0.5 border-r border-dashed border-white"></span>
+                <span className="absolute right-0 top-1/2 transform -translate-y-1/2 h-2/5 w-0.5 border-r border-dashed border-white"></span>
                 {/* Top Circle */}
-                <span className="absolute top-16 left-full transform -translate-x-1/2 w-8 h-8 bg-[#D9D9D9] rounded-full"></span>
+                <span className="absolute top-24 left-full transform -translate-x-1/2 w-8 h-8 bg-[#D9D9D9] rounded-full"></span>
                 {/* Bottom Circle */}
-                <span className="absolute bottom-16 left-full transform -translate-x-1/2 w-8 h-8 bg-[#D9D9D9] rounded-full"></span>
+                <span className="absolute bottom-24 left-full transform -translate-x-1/2 w-8 h-8 bg-[#D9D9D9] rounded-full"></span>
 
                 <h1 className="text-2xl text-center relative after:content-[''] after:block after:h-0.5 after:w-44 after:border-t after:border-dotted after:border-white after:mt-2 after:mx-auto mb-3">
                     START
