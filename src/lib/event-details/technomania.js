@@ -4,7 +4,7 @@ export const technomania = {
     title: "Techno Mania",
     bgImage: "/assets/events/Technomania.jpg",
     icon: "/assets/events/icons/technicals.png",
-    description: "🚀 **Technomania: Where Circuits Spark & Ideas Ignite!** ⚡ Welcome to **Technomania**, the ultimate **hardware modeling showdown** at **TechStorm**! Here, the **brightest tech minds** assemble in squads, crafting **functional models** that push the boundaries of innovation. But that’s not all—your tech masterpiece isn’t just about the wires and circuits; you’ll **pitch it like a pro** with a slick **PowerPoint demonstration** to impress the judges! Think you’ve got the **tech skills** and the **presentation flair** to dominate? Bring your **gadgets, gears, and genius**—because at **Technomania**, only the boldest builds steal the spotlight! 🔥⚙💡 **Get ready to model, demo, and dazzle!** 🚀",
+    description: "🚀 Technomania: Where Circuits Spark & Ideas Ignite! ⚡ Welcome to Technomania, the ultimate hardware modeling showdown at TechStorm! Here, the brightest tech minds assemble in squads, crafting functional models that push the boundaries of innovation. But that's not all—your tech masterpiece isn't just about the wires and circuits; you'll pitch it like a pro with a slick PowerPoint demonstration to impress the judges! Think you've got the tech skills and the presentation flair to dominate? Bring your gadgets, gears, and genius—because at Technomania, only the boldest builds steal the spotlight! 🔥⚙💡 Get ready to model, demo, and dazzle! 🚀",
 
     registrationLink: "https://forms.gle/Je6hFjCuAr9sZovp8",
     prize: "Exciting Rewards",

@@ -22,7 +22,7 @@ export const rosoccer = {
             "heading": "Bot Specifications",
             "content": [
                 "The dimensions of the bot must be 30cm x 30cm or less, including wheels (No tolerance allowed).",
-                "The maximum weight of the bot is 3.0 kg (10% tolerance allowed).",
+                "The maximum weight of the bot is 3.0 kg (250gm tolerance allowed).",
                 "The maximum voltage used for driving the bot should be 18V.",
                 "Readymade toy cars, Lego, IC engines, or hydraulic systems are not allowed.",
                 "The robot should be remotely controlled, and the connections (e.g., wires) between the control unit and the robot should be slack at all times."
@@ -32,13 +32,13 @@ export const rosoccer = {
             "heading": "Participation Rules and Regulations",
             "content": [
                 "Participants are not allowed to enter the arena.",
-                "For any team without a bot, a wired bot will be provided along with the controller and rectifier.",
-                "Each team can have a minimum of 2 members and a maximum of 4 members.",
-                "No same member can take part in two different teams. One bot cannot be shared by two teams, and one driver cannot drive two bots except for the one provided by the coordinators.",
-                "Team members can be from different colleges or universities, but all must carry their respective institution ID cards and a Xerox copy of their AADHAR card.",
-                "Participants must bring their college ID cards to the event.",
-                "Coordinators can modify rules in special cases if required.",
-                "Misbehavior or abuse toward participants or coordinators may result in suspension/disqualification."
+                "A bot will be provided by the coordinators for participants who do not have their own, with availability limited to BPPIMT students.",
+                "Each team can have a minimum of 2 members and maximum of 4 members.",
+                "No same member can take part in two different teams. One bot cannot be shared by 2 different teams and one driver cannot drive 2 different bots, except the one provided by the event coordinators.",
+                "The members of the team can be from different colleges or universities. Students from different institutions can form a team provided that each member of the team contains the identity card of his/her respective institute along with a Xerox copy of AADHAR card.",
+                "All the team members are required to bring their ID card (college id) with them.",
+                "The coordinators can change some of the rules in case of special cases, if required.",
+                "Participants must not misbehave or abuse any other participants / coordinators. This can be taken seriously and lead to suspension/disqualification from all the events."
             ]
         },
         {
@@ -46,11 +46,11 @@ export const rosoccer = {
             "content": [
                 "No trial run will be allowed.",
                 "The repair timeout will be 2 minutes only.",
-                "Destruction of the arena may lead to disqualification.",
+                "Any destruction in the arena may lead to disqualification.",
                 "The coordinator's decision is final and unquestionable.",
                 "Human interference (touching the robot) during the game is not allowed.",
                 "Variable voltage is not allowed in the Knockout Round & Final Round (Max 18V).",
-                "Only the time measured by organizers will be considered. Time measured by participants will not be accepted."
+                "Only the time measured by organizers will be final and considered for scoring. Time measured by the participants by any means will not be accepted in any case."
             ]
         },
         {
@@ -58,12 +58,11 @@ export const rosoccer = {
             "content": [
                 "Prelims will be 4 minutes long. Knockout matches will be 6 minutes. The final match will be 8 minutes.",
                 "Unnecessary attacks on the opponent bot are not allowed and may lead to disqualification (2 warnings will be given).",
-                "Pulling/turning wires is considered a foul. Maximum 2 warnings before disqualification.",
-                "In case of a 10-second deadlock between bots, positions will reset.",
-                "Not reaching the ball for 10 seconds can lead to position resets.",
-                "The ball cannot be trapped in the main body. If trapped, positions will reset.",
-                "Coordinators have the right to make final decisions during the event.",
-                "Matches will be recorded to resolve deadlock situations and clarify ambiguities."
+                "Turning/pulling the wire will be considered a foul. Maximum of 2 warnings before disqualification.",
+                "In case of deadlock between bots for 10 seconds, the position will be reset and back to original. Not reaching the ball for 10 seconds can lead to resetting the position.",
+                "The ball can't be trapped in the main body, if trapped positions will be reset.",
+                "Coordinators have all the right to take final decisions on any matter during the event.",
+                "The entire process will be recorded to get the deadlock situation and to clear other ambiguities.",
             ]
         },
         {
@@ -71,7 +70,7 @@ export const rosoccer = {
             "content": [
                 "Prelims - The driver has to traverse through the arena with the ball and score the maximum number of goals in the given time.",
                 "There will be a number of bricks with “+5” or “+10” on them.",
-                "If the robot touches any of the bricks, they indicate either “+5 seconds” or “+10 seconds” penalty to the robot’s time.",
+                "If the robot touches any of the bricks, they indicate either “+5 seconds” or “+10 seconds” penalty to the robot's time.",
                 "The final decision will be based on total time taken, i.e., 4 minutes + penalties and number of goals."
             ]
         },
