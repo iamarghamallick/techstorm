@@ -21,8 +21,8 @@ const EventCategoryCard = ({ active, title, icon, image }) => {
             <ImageWithSkeleton
                 src={image}
                 alt={title}
-                width={3000}
-                height={4000}
+                width={300}
+                height={400}
                 className={`w-full h-full object-cover rounded-lg transition-transform duration-300 ${active ? "group-hover:scale-105 group-hover:opacity-80" : ""}`}
             />
             {/* Gradient overlay */}
@@ -33,8 +33,8 @@ const EventCategoryCard = ({ active, title, icon, image }) => {
                     <Image
                         src={icon}
                         alt={title}
-                        width={100}
-                        height={100}
+                        width={50}
+                        height={50}
                         className={`md:w-44 md:h-44 transition-transform duration-300 ${active ? "group-hover:scale-110" : ""}`}
                     />
                     <p className={`font-ribes text-4xl md:text-5xl font-semibold text-white text-center transition-transform duration-300 ${active ? "group-hover:translate-y-2 group-hover:scale-105" : ""}`}>

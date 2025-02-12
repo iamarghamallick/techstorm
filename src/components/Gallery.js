@@ -21,7 +21,7 @@ const Gallery = () => {
                 transition={{ duration: 1 }}
                 className='w-full md:w-2/5 md:h-full'
             >
-                <ImageWithSkeleton src='/assets/gallery/DSC_0307.JPG' alt='gallery-image-1' width={4928} height={3264} className='grayscale w-full h-full object-cover rounded-lg aspect-square transition-colors duration-300 hover:filter-none' />
+                <ImageWithSkeleton src='/assets/gallery/DSC_0307.JPG' alt='gallery-image-1' width={400} height={400} className='grayscale w-full h-full object-cover rounded-lg aspect-square transition-colors duration-300 hover:filter-none' />
             </motion.div>
 
             <motion.div
@@ -30,8 +30,8 @@ const Gallery = () => {
                 transition={{ duration: 1 }}
                 className="grid grid-cols-2 md:grid-cols-1 md:grid-rows-2 gap-4 w-full md:w-[25%] md:h-full"
             >
-                <ImageWithSkeleton src='/assets/gallery/IMG_8253.JPG' alt='gallery-image-2' width={4928} height={3264} className='grayscale w-full h-full object-cover rounded-lg aspect-square transition-colors duration-300 hover:filter-none' />
-                <ImageWithSkeleton src='/assets/gallery/IMG_7990.JPG' alt='gallery-image-3' width={4928} height={3264} className='grayscale w-full h-full object-cover rounded-lg aspect-square transition-colors duration-300 hover:filter-none' />
+                <ImageWithSkeleton src='/assets/gallery/IMG_8253.JPG' alt='gallery-image-2' width={400} height={400} className='grayscale w-full h-full object-cover rounded-lg aspect-square transition-colors duration-300 hover:filter-none' />
+                <ImageWithSkeleton src='/assets/gallery/IMG_7990.JPG' alt='gallery-image-3' width={400} height={400} className='grayscale w-full h-full object-cover rounded-lg aspect-square transition-colors duration-300 hover:filter-none' />
             </motion.div>
 
             <motion.div
@@ -41,7 +41,7 @@ const Gallery = () => {
                 className="md:grid md:grid-rows-3 gap-4 w-full md:w-[35%] md:h-full row-span-2"
             >
                 <div className='hidden md:block row-span-2 grayscale w-full h-full object-cover rounded-lg'>
-                    <ImageWithSkeleton src='/assets/gallery/IMG_8144.JPG' alt='gallery-image-4' width={4928} height={3264} className='hidden md:block row-span-2 grayscale w-full h-full object-cover rounded-lg transition-colors duration-300 hover:filter-none' />
+                    <ImageWithSkeleton src='/assets/gallery/IMG_8144.JPG' alt='gallery-image-4' width={400} height={400} className='hidden md:block row-span-2 grayscale w-full h-full object-cover rounded-lg transition-colors duration-300 hover:filter-none' />
                 </div>
 
                 <Link

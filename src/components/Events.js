@@ -45,12 +45,7 @@ const Events = () => {
     }, []);
 
     return (
-        <motion.div
-            initial={{ opacity: 0, y: "30px" }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 1 }}
-            className="relative"
-        >
+        <div className="relative">
             {/* bg effects: styled in /src/app/globals.css  */}
             {/* top left  */}
             <div className="home-bg-red-top hidden md:block"></div>
@@ -62,7 +57,12 @@ const Events = () => {
             <div className="home-bg-events-top md:hidden"></div>
 
             <h1 className="font-ribes text-5xl my-8 pl-2">Events</h1>
-            <div className="relative max-w-7xl mx-auto px-4 py-8">
+            <motion.div
+                initial={{ opacity: 0, y: "30px" }}
+                whileInView={{ opacity: 1, y: 0 }}
+                transition={{ duration: 1 }}
+                className="relative max-w-7xl mx-auto px-4 py-8"
+            >
                 <div
                     ref={sliderRef}
                     className="flex overflow-x-auto scrollbar-hide scroll-smooth gap-4"
@@ -94,8 +94,8 @@ const Events = () => {
                         <FaChevronRight className="text-white text-4xl" />
                     </button>
                 )}
-            </div>
-        </motion.div>
+            </motion.div>
+        </div>
     );
 };
 
