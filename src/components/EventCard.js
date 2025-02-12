@@ -19,9 +19,9 @@ const EventCard = ({ title, icon, image }) => {
                 <Image
                     src={icon}
                     alt={title}
-                    width={50}
-                    height={50}
-                    className="h-24 w-24 transition-transform duration-300 group-hover:scale-105"
+                    width={70}
+                    height={70}
+                    className="transition-transform duration-300 group-hover:scale-105"
                     priority
                 />
                 <h3 className="font-ribes text-6xl font-semibold text-white mt-2 text-center transition-transform duration-300 group-hover:scale-105 group-hover:translate-y-1">
