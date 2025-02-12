@@ -75,7 +75,7 @@ const Footer = () => {
 
                     <div className="flex flex-col my-2 mt-10 md:mt-6">
                         <h1 className={`font-ribes text-3xl font-semibold`}>Visitor Count</h1>
-                        <p className={`${pixelify.className} text-[#A4A4A4] text-4xl text-center md:text-left hover:text-white transition-colors duration-300`}>{count || "Loading..."}</p>
+                        <p className={`${pixelify.className} text-[#A4A4A4] text-4xl text-center md:text-left hover:text-white transition-colors duration-300 tracking-widest`}>{count || "Loading..."}</p>
                     </div>
                 </div>
             </div>

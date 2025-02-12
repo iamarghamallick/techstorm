@@ -27,12 +27,18 @@ export const codebeejr = {
         {
             "heading": "General Rules",
             "content": [
+                "This event is absolutely Free of Cost for everyone.",
+                "Each team may consist of maximum 2 members.",
                 "Utilizing any kind of external electronic aid will lead to disqualification.",
+                "No laptops, no mobile phones, no smart watches or any digital devices are allowed.",
                 "All rounds are offline and will be held on the campus of BPPIMT (If any changes made then it will be informed via mail.).",
                 "Only those participants who clear the previous round will ascend to the next round.",
                 "Computer facilities will be provided at the venue.",
                 "In case of any dispute or unfair means, the decision of the organizers shall be binding.",
-                "Plagiarism is strictly prohibited."
+                "Plagiarism is strictly prohibited.",
+                "There is no registration fee for any event.",
+                "Participants must reach the venue by 10.00 AM. They should carry ID Cards.",
+                "One teacher from the parent institute should accompany them.",
             ]
         },
         {
@@ -40,7 +46,7 @@ export const codebeejr = {
             "content": [
                 "The event will be held in two rounds:",
                 "MCQ CHALLENGE (First Round, Time Limit- 30 Minutes): This is an online test consisting of multiple-choice questions on computing ability. There will be negative marking for wrong answers.",
-                "CODE SPRINT (Final Round, Time Limit- 60 Minutes): The participants are expected to exhibit their skills in programming. The participants will use the following platforms: C, C++, JAVA, PYTHON."
+                "CODE SPRINT (Final Round, Time Limit- 60 Minutes): The participants are expected to exhibit their skills in programming. The participants will use the following platforms: C, C++, JAVA, PYTHON.",
             ]
         }
     ],

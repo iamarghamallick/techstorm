@@ -8,8 +8,8 @@ const EventCard = ({ title, icon, image }) => {
             <ImageWithSkeleton
                 src={image}
                 alt={title}
-                width={3000}
-                height={4000}
+                width={300}
+                height={400}
                 className="w-full h-full object-cover group-hover:opacity-80 transition-opacity duration-300 rounded-lg"
             />
             {/* Gradient overlay */}

@@ -21,8 +21,8 @@ const EventCategoryCard = ({ active, title, icon, image }) => {
             <ImageWithSkeleton
                 src={image}
                 alt={title}
-                width={3000}
-                height={4000}
+                width={600}
+                height={400}
                 className={`w-full h-full object-cover rounded-lg transition-transform duration-300 ${active ? "group-hover:scale-105 group-hover:opacity-80" : ""}`}
             />
             {/* Gradient overlay */}
