@@ -8,19 +8,25 @@ export const roterrance = {
 
     registrationLink: "https://forms.gle/y1sgTZfRVmN3q5a6A",
     prize: "Exciting Rewards",
+
     bppimtRegFees: "",
     outsideRegFees: "₹400",
-    onspotReg: "TBD",
+
+    onspotReg: "Available",
+    onspotRegInfo: [
+        "",
+        "",
+    ],
 
     prelimsDate: "Coming Soon",
     prelimsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        "",
     ],
     finalsDate: "Coming Soon",
     finalsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        "",
     ],
 
     rules: [

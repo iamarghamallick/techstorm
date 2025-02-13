@@ -8,19 +8,25 @@ export const codebee = {
 
     registrationLink: "https://bit.ly/bppimt_codebee",
     prize: "Exciting Prizes",
+
     bppimtRegFees: "₹80",
     outsideRegFees: "₹100",
-    onspotReg: "TBD",
 
-    prelimsDate: "Coming Soon",
+    onspotReg: "Available",
+    onspotRegInfo: [
+        "(Only for outside participants)",
+        ""
+    ],
+
+    prelimsDate: "11th March",
     prelimsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "(For Inhouse Participants)",
+        ""
     ],
     finalsDate: "Coming Soon",
     finalsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        ""
     ],
 
     rules: [

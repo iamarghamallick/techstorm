@@ -4,23 +4,29 @@ export const omegatrix = {
     title: "Omegatrix",
     bgImage: "/assets/events/Omegatrix.png",
     icon: "/assets/events/icons/brain-teaser.png",
-    description: "A dynamic mathematics and reasoning event crafted to ignite your curiosity and sharpen your problem-solving skills! With captivating puzzles, stimulating questions, and an exciting touch of AI/ML, this challenge promises to engage your mind. Open to students of all year. Join us, and let’s unlock the power of your mind!",
+    description: "A dynamic mathematics and reasoning event crafted to ignite your curiosity and sharpen your problem-solving skills! With captivating puzzles, stimulating questions, and an exciting touch of AI/ML, this challenge promises to engage your mind. Open to students of all year. Join us, and let's unlock the power of your mind!",
 
     registrationLink: "https://forms.gle/hBFsSzdnszCMGBXu9",
     prize: "Exciting Prizes",
+
     bppimtRegFees: "₹50",
     outsideRegFees: "₹60",
-    onspotReg: "TBD",
 
-    prelimsDate: "Coming Soon",
+    onspotReg: "Not Available",
+    onspotRegInfo: [
+        "",
+        "",
+    ],
+
+    prelimsDate: "12th March",
     prelimsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "(For Inhouse Participants)",
+        "",
     ],
     finalsDate: "Coming Soon",
     finalsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        "",
     ],
 
     rules: [

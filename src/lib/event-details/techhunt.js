@@ -8,19 +8,25 @@ export const techhunt = {
 
     registrationLink: "https://forms.gle/csTtGi69TMAA2WRZ9",
     prize: "Exciting Prizes",
+
     bppimtRegFees: "",
     outsideRegFees: "₹150",
-    onspotReg: "TBD",
+
+    onspotReg: "Available",
+    onspotRegInfo: [
+        "(Limited - First come, First serve basis)",
+        "",
+    ],
 
     prelimsDate: "Coming Soon",
     prelimsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        "",
     ],
     finalsDate: "Coming Soon",
     finalsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        "",
     ],
 
     rules: [

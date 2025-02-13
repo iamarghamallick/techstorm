@@ -8,19 +8,25 @@ export const technomania = {
 
     registrationLink: "https://forms.gle/Je6hFjCuAr9sZovp8",
     prize: "Exciting Rewards",
-    bppimtRegFees: "₹100",
-    outsideRegFees: "₹150",
-    onspotReg: "TBD",
 
-    prelimsDate: "Coming Soon",
+    bppimtRegFees: "₹100",
+    outsideRegFees: "₹120",
+
+    onspotReg: "Available",
+    onspotRegInfo: [
+        "",
+        "",
+    ],
+
+    prelimsDate: "",
     prelimsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        "",
     ],
     finalsDate: "Coming Soon",
     finalsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        "",
     ],
 
     rules: [

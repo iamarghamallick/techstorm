@@ -8,19 +8,25 @@ export const efootball = {
 
     registrationLink: "https://forms.gle/i7p3o1YbyW7BCNdU9",
     prize: "Exciting Prizes",
+
     bppimtRegFees: "₹50",
     outsideRegFees: "₹60",
-    onspotReg: "TBD",
+
+    onspotReg: "Available",
+    onspotRegInfo: [
+        "",
+        "",
+    ],
 
     prelimsDate: "Coming Soon",
     prelimsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        "",
     ],
     finalsDate: "Coming Soon",
     finalsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        "",
     ],
 
     rules: [

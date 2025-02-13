@@ -8,19 +8,25 @@ export const rocombat = {
 
     registrationLink: "https://forms.gle/EwDHiq6haesjenKdA",
     prize: "Exciting Prizes",
+
     bppimtRegFees: "",
     outsideRegFees: "₹600",
-    onspotReg: "TBD",
+
+    onspotReg: "Available",
+    onspotRegInfo: [
+        "",
+        "",
+    ],
 
     prelimsDate: "Coming Soon",
     prelimsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        "",
     ],
     finalsDate: "Coming Soon",
     finalsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        "",
     ],
 
     rules: [
