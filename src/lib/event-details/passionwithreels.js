@@ -8,19 +8,25 @@ export const passionwithreels = {
 
     registrationLink: "https://forms.gle/1xN1s3iVuUfCBJfp6",
     prize: "Exciting Prizes",
+
     bppimtRegFees: "₹150",
     outsideRegFees: "₹200",
-    onspotReg: "TBD",
 
-    prelimsDate: "Coming Soon",
+    onspotReg: "Not Available",
+    onspotRegInfo: [
+        "",
+        "",
+    ],
+
+    prelimsDate: "",
     prelimsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        "",
     ],
     finalsDate: "Coming Soon",
     finalsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        "",
     ],
 
     rules: [

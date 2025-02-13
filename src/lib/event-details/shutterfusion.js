@@ -8,16 +8,25 @@ export const shutterfusion = {
 
     registrationLink: "https://forms.gle/VHC2Z3XAUztE2s2U8",
     prize: "Exciting Prizes",
+
     bppimtRegFees: "₹50",
     outsideRegFees: "₹60",
-    onspotReg: "TBD",
 
-    prelimsDate: "No Prelims",
-    prelimsTiming: [],
+    onspotReg: "Not Available",
+    onspotRegInfo: [
+        "",
+        "",
+    ],
+
+    prelimsDate: "",
+    prelimsTiming: [
+        "",
+        "",
+    ],
     finalsDate: "Coming Soon",
     finalsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        "",
     ],
 
     rules: [

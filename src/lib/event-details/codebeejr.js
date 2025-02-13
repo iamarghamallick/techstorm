@@ -8,19 +8,25 @@ export const codebeejr = {
 
     registrationLink: "https://forms.gle/GXyprN57238MiVdQ6",
     prize: "Exciting Prizes",
+
     bppimtRegFees: "",
     outsideRegFees: "No Fee",
-    onspotReg: "Not Available",
 
-    prelimsDate: "Coming Soon",
+    onspotReg: "Not Available",
+    onspotRegInfo: [
+        "",
+        "",
+    ],
+
+    prelimsDate: "",
     prelimsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        "",
     ],
     finalsDate: "Coming Soon",
     finalsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        "",
     ],
 
     rules: [

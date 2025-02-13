@@ -165,12 +165,12 @@ const SingleEventSlug = ({ slug }) => {
                             {
                                 heading: "On-spot registration",
                                 text: currEvent.onspotReg,
-                                desc: ["", ""],
+                                desc: currEvent.onspotRegInfo || ["", ""],
                                 image: "/assets/eventdetails-icons/on-spot.png",
                             },
                             {
-                                heading: "Date of Prelims",
-                                text: currEvent.prelimsDate,
+                                heading: currEvent.prelimsDate === "" ? "No Prelims" : "Date of Prelims",
+                                text: currEvent.prelimsDate || "Final Round Only",
                                 desc: currEvent.prelimsTiming || ["", ""],
                                 image: "/assets/eventdetails-icons/prelims.png",
                             },

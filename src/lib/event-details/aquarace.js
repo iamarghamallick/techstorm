@@ -8,19 +8,25 @@ export const aquarace = {
 
     registrationLink: "https://forms.gle/7MATJLHqip6TE2Gg6",
     prize: "Exciting Prizes",
+
     bppimtRegFees: "",
     outsideRegFees: "₹200",
-    onspotReg: "TBD",
+
+    onspotReg: "Available",
+    onspotRegInfo: [
+        "",
+        "",
+    ],
 
     prelimsDate: "Coming Soon",
     prelimsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        "",
     ],
     finalsDate: "Coming Soon",
     finalsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        "",
     ],
 
     rules: [

@@ -8,19 +8,25 @@ export const hackstorm = {
 
     registrationLink: "https://forms.gle/kdcRUu1vSYVQEQXx7",
     prize: "Exciting Prizes",
+
     bppimtRegFees: "₹80",
     outsideRegFees: "₹100",
-    onspotReg: "TBD",
 
-    prelimsDate: "Coming Soon",
+    onspotReg: "Available",
+    onspotRegInfo: [
+        "",
+        "",
+    ],
+
+    prelimsDate: "",
     prelimsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        "",
     ],
     finalsDate: "Coming Soon",
     finalsTiming: [
-        "Coming Soon",
-        "Coming Soon"
+        "",
+        "",
     ],
 
     rules: [

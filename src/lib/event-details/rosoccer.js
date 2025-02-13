@@ -8,14 +8,26 @@ export const rosoccer = {
 
     registrationLink: "https://forms.gle/D6BemzYhJnWu6qPi9",
     prize: "Exciting Prizes",
+
     bppimtRegFees: "",
     outsideRegFees: "₹400",
-    onspotReg: "TBD",
 
-    prelimsDate: "TBD",
-    prelimsTiming: ["TBD", "TBD"],
-    finalsDate: "TBD",
-    finalsTiming: ["TBD", "TBD"],
+    onspotReg: "Available",
+    onspotRegInfo: [
+        "",
+        "",
+    ],
+
+    prelimsDate: "Coming Soon",
+    prelimsTiming: [
+        "",
+        "",
+    ],
+    finalsDate: "Coming Soon",
+    finalsTiming: [
+        "",
+        "",
+    ],
 
     rules: [
         {
