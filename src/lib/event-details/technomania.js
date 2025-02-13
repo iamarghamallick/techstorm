@@ -31,14 +31,36 @@ export const technomania = {
 
     rules: [
         {
+            "heading": "Theme: Sustainable Development",
+            "content": []
+        },
+        {
             "heading": "General Rules",
             "content": [
                 "This is an offline event that will be held at B.P Poddar Institute of Management and Technology, Kolkata campus.",
-                "It is recommended that the participation be done in groups. A group may consist of no more than 4 members.",
-                "Every participant has to prepare a functional hardware model based on the provided theme and a PowerPoint presentation for its demonstration.",
-                "The number of slides should not exceed 10.",
-                "Time allocated per participant for demonstration and Q&A session is 10 minutes.",
-                "Any form of plagiarism/malpractice will not be tolerated during the event, and any team found guilty will be immediately disqualified."
+                "Participation must be done in groups. Group size: 3-4 members."
+            ]
+        },
+        {
+            "heading": "Model and Poster Requirements",
+            "content": [
+                "**Hardware Model:**",
+                "1) Each team must design and present a functional hardware prototype aligned with the given theme.",
+                "2) The model must demonstrate a clear real-world application that contributes to sustainability.",
+
+                "**Poster:**",
+                "1) Teams must prepare a poster that effectively explains their project’s purpose and benefits.",
+                "2) The poster can be either handmade (on art paper) or digitally created (using tools like Canva, Photoshop, etc.) and printed.",
+                "3) It should include a brief description, key features, and real-world impact of the model."
+            ]
+        },
+        {
+            "heading": "Judging Criteria",
+            "content": [
+                "1) Innovation & creativity",
+                "2) Functionality",
+                "3) Sustainability impact",
+                "4) Presentation and poster quality"
             ]
         }
     ],
