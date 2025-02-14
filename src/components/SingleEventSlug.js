@@ -137,6 +137,12 @@ const SingleEventSlug = ({ slug }) => {
                             ))}
                         </div>
 
+                        {currEvent.registrationInstruction && <p
+                            className={`${poppins.className} text-xs md:text-base font-semibold px-2`}
+                        >
+                            {currEvent.registrationInstruction}
+                        </p>}
+
                         <Link
                             href={currEvent.registrationLink || "#"}
                             target={currEvent.registrationLink ? "_blank" : undefined}

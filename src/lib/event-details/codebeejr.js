@@ -6,11 +6,12 @@ export const codebeejr = {
     icon: "/assets/events/icons/budding.png",
     description: "Here is a chance to prove yourself that you are not only a programmer but also an elegant and efficient coder. Plunge in to unravel the deep Coding secrets and swim up to the shore with the best algorithm. Code Bee Junior is an offline coding event where the two upcoming rounds will give your mind a real twist and turn; so be ready to decode the trail.",
 
+    registrationInstruction: "This event is for SCHOOL and DIPLOMA students only. If you are a COLLEGE student, please do not register in this event.",
     registrationLink: "https://forms.gle/GXyprN57238MiVdQ6",
     prize: "Exciting Prizes",
 
     bppimtRegFees: "",
-    outsideRegFees: "No Fee",
+    outsideRegFees: "No Registration Fee",
 
     onspotReg: "Not Available",
     onspotRegInfo: [
