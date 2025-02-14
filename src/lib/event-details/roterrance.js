@@ -33,7 +33,7 @@ export const roterrance = {
         {
             "heading": "General Rules",
             "content": [
-                "This is a team event. The maximum number of participants allowed in a team is 4.",
+                "This is a team event. The maximum number of participants allowed in a team is 5.",
                 "A participant cannot be a member of 2 different teams in this event.",
                 "Any action violating fair play will lead to immediate disqualification.",
                 "The decision of the coordinators will be final.",
