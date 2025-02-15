@@ -269,7 +269,7 @@ const SingleEventSlug = ({ slug }) => {
                                 {rule.content.map((content, index) => (
                                     <div
                                         key={index}
-                                        className={`${poppins.className} text-base md:text-lg`}
+                                        className={`${poppins.className} text-base md:text-lg mb-2`}
                                     >
                                         &bull; {content}
                                     </div>

@@ -37,7 +37,7 @@ export const shutterfusion = {
                 "Highly edited photos are not acceptable (only can control exposure and brightness).",
                 "The photograph must be original and no watermark of any kind should be on the photograph.",
                 "There is no restriction on the device used. Mobile photographs will be accepted.",
-                "All photographs must be in the ratio 4:3.",
+                "All photographs must be in the ratio 4:3 or 3:4.",
                 "Participants must accept and confirm that the photographs submitted belong to them and all necessary permits are fully obtained. If the work submitted doesn't belong to the participant, it will be considered a violation of rules and lead to disqualification.",
                 "There will be one round in this event, and it will be held online.",
                 "No vulgarity, community issues, political issues, or religious issues will be entertained and would lead to direct disqualification.",
