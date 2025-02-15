@@ -47,7 +47,7 @@ export const passionwithreels = {
                 "The maximum number of team members can be 8 (including the cast) and there is no limit on the minimum number of team members.",
                 "Judges' decisions will be final and binding.",
                 "TECHSTORM 2.25 organizers reserve the right to change/modify/alter any rule or its part or event of this competition anytime.",
-                "The last date of submitting the short film is 18th March 2025. Participants will upload their film to the google form mentioned.",
+                "The last date of submitting the short film is 15th March 2025. Participants will upload their film to the google form mentioned.",
                 "TECHSTORM 2.25 will have non-exclusive perpetual rights to screen all film entries on any internet-based platform of its choice or in any future event, as and when required.",
                 "TECHSTORM 2.25 will not be responsible for violation of any copyright and intellectual property rights. In case such a violation is reported at any stage, the film entrants will be entirely liable for any litigation or penal action.",
                 "TECHSTORM 2.25 shall recognize the awarded films and they will be uploaded on TECHSTORM 2.25’s social media pages."
