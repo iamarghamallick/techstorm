@@ -10,7 +10,7 @@ export const technomania = {
     prize: "Exciting Rewards",
 
     bppimtRegFees: "₹100",
-    outsideRegFees: "₹120",
+    outsideRegFees: "₹150",
 
     onspotReg: "Available",
     onspotRegInfo: [
