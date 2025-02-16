@@ -72,7 +72,7 @@ export default function TeamsAccordion({ teams }) {
                                                             ({member.department})
                                                         </span>
                                                     </h2>
-                                                    <p className="text-lg text-gray-400">{member.phone}</p>
+                                                    { }
                                                 </div>
                                             ))}
                                         </div>
@@ -95,7 +95,7 @@ export default function TeamsAccordion({ teams }) {
                                                             ({member.department})
                                                         </span>
                                                     </h2>
-                                                    <p className="text-lg text-gray-400">{member.phone}</p>
+                                                    {/* <p className="text-lg text-gray-400">Place for Mobile No</p> */}
                                                 </div>
                                             ))}
                                         </div>
