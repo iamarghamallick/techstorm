@@ -23,6 +23,11 @@ export const codebee = {
         "(For Inhouse Participants)",
         "",
     ],
+    prelimsDate2: "17th March",
+    prelimsTiming2: [
+        "(For Outside Participants)",
+        "",
+    ],
     finalsDate: "Coming Soon",
     finalsTiming: [
         "",
