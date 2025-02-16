@@ -167,24 +167,35 @@ const SingleEventSlug = ({ slug }) => {
                                 text: currEvent.prize,
                                 desc: ["", ""],
                                 image: "/assets/eventdetails-icons/prizes.png",
+                                display: true,
                             },
                             {
                                 heading: "On-spot registration",
                                 text: currEvent.onspotReg,
                                 desc: currEvent.onspotRegInfo || ["", ""],
                                 image: "/assets/eventdetails-icons/on-spot.png",
+                                display: true,
                             },
                             {
                                 heading: currEvent.prelimsDate === "" ? "No Prelims" : "Date of Prelims",
                                 text: currEvent.prelimsDate || "Final Round Only",
                                 desc: currEvent.prelimsTiming || ["", ""],
                                 image: "/assets/eventdetails-icons/prelims.png",
+                                display: true,
+                            },
+                            {
+                                heading: currEvent.prelimsDate2 ? "Date of Prelims" : "",
+                                text: currEvent.prelimsDate2 || "",
+                                desc: currEvent.prelimsTiming2 || ["", ""],
+                                image: "/assets/eventdetails-icons/prelims.png",
+                                display: currEvent.prelimsDate2,
                             },
                             {
                                 heading: "Date of Finals",
                                 text: currEvent.finalsDate,
                                 desc: currEvent.finalsTiming || ["", ""],
                                 image: "/assets/eventdetails-icons/finals.png",
+                                display: true,
                             },
                         ].map((item, index) => (
                             <motion.div
@@ -192,7 +203,7 @@ const SingleEventSlug = ({ slug }) => {
                                 whileInView={{ opacity: 1, y: 0 }}
                                 transition={{ duration: 0.5 }}
                                 key={index}
-                                className="details-box w-full flex justify-between items-end p-2 rounded-lg bg-[#202020c4] h-32 group hover:shadow-lg hover:shadow-green-300 transition-all duration-300"
+                                className={`${item.display ? "" : "hidden"} details-box w-full flex justify-between items-end p-2 rounded-lg bg-[#202020c4] min-h-32 group hover:shadow-lg hover:shadow-green-300 transition-all duration-300`}
                             >
                                 <div className="w-2/3 flex flex-col pl-2 justify-end group-hover:scale-[1.02] group-hover:translate-x-1 transition-transform duration-300">
                                     <p className={`${poppins.className} font-semibold`}>{item.heading}</p>
