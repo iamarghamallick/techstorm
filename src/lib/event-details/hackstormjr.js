@@ -43,7 +43,7 @@ export const hackstormjr = {
                 "There is no registration fee.",
                 "Participants must reach the venue by 10.00 AM.",
                 "They should carry ID Cards.",
-                "One teacher from the parent institute should accompany them."
+                "One teacher from the parent institute should accompany them (not mandatory for DIPLOMA colleges).",
             ]
         }
     ],
