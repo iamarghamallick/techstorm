@@ -39,7 +39,8 @@ export const technomaniajr = {
                 "Assessment will be based on both the Model Display and the Presentation.",
                 "The decision of judges shall be final and binding.",
                 "Order of performance will be pre-decided and no request for any change will be entertained.",
-                "The Coordinators may change the rules in special cases."
+                "The Coordinators may change the rules in special cases.",
+                "One teacher from the parent institute should accompany them (not mandatory for DIPLOMA colleges).",
             ]
         }
     ],

@@ -45,7 +45,7 @@ export const codebeejr = {
                 "Plagiarism is strictly prohibited.",
                 "There is no registration fee for any event.",
                 "Participants must reach the venue by 10.00 AM. They should carry ID Cards.",
-                "One teacher from the parent institute should accompany them.",
+                "One teacher from the parent institute should accompany them (not mandatory for DIPLOMA colleges).",
             ]
         },
         {
