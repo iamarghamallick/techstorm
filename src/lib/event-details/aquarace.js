@@ -37,7 +37,7 @@ export const aquarace = {
                 "Each participant should carry his/her college ID.",
                 "All rounds will be held in BPPIMT campus.",
                 "Wired Boats are NOT allowed. The boats must be wireless and powered by batteries strictly.",
-                "The boat dimensions should be: Length: 38cm - 42cm, Width: 18cm - 22cm.",
+                "The boat dimensions should be: Length: 20cm - 25cm, Width: 15cm - 20cm.",
                 "Use of ready-made mechanisms, kits, or LEGO sets is strictly prohibited and will lead to disqualification.",
                 "The controller/driver who plays in the prelims must also play in the finals. Changing the controller/driver will lead to disqualification.",
                 "Destruction in the arena may lead to disqualification.",
