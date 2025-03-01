@@ -4,7 +4,7 @@ export const rosoccer = {
     title: "Ro-Soccer",
     bgImage: "/assets/events/RoSoccer.jpg",
     icon: "/assets/events/icons/rovers.png",
-    description: "Get ready for the ULTIMATE showdown in RO SOCCER! Two powerful robots, designed and controlled by brilliant minds, clash in an electrifying 1v1 battle. Watch as they unleash speed, agility, and precision to outsmart their rival and score the winning goal. Witness the thrill, strategy, and intensity of this robotic duel—don’t miss the action!",
+    description: "Get ready for the ULTIMATE showdown in RO SOCCER! Two powerful robots, designed and controlled by brilliant minds, clash in an electrifying 1v1 battle. Watch as they unleash speed, agility, and precision to outsmart their rival and score the winning goal. Witness the thrill, strategy, and intensity of this robotic duel—don't miss the action!",
 
     registrationLink: "https://forms.gle/D6BemzYhJnWu6qPi9",
     prize: "Exciting Prizes",
@@ -45,7 +45,7 @@ export const rosoccer = {
             "content": [
                 "Participants are not allowed to enter the arena.",
                 "A bot will be provided by the coordinators for participants who do not have their own, with availability limited to BPPIMT students.",
-                "Each team can have a minimum of 2 members and maximum of 4 members.",
+                "Each team can have a minimum of 2 members and maximum of 5 members.",
                 "No same member can take part in two different teams. One bot cannot be shared by 2 different teams and one driver cannot drive 2 different bots, except the one provided by the event coordinators.",
                 "The members of the team can be from different colleges or universities. Students from different institutions can form a team provided that each member of the team contains the identity card of his/her respective institute along with a Xerox copy of AADHAR card.",
                 "All the team members are required to bring their ID card (college id) with them.",
