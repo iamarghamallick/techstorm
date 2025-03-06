@@ -31,6 +31,10 @@ export const rosoccer = {
 
     rules: [
         {
+            "heading": "BOT WILL BE PROVIDED FOR 1st And 2nd year BPPIMT Students for those who wish to opt for it.",
+            "content": [],
+        },
+        {
             "heading": "Bot Specifications",
             "content": [
                 "The dimensions of the bot must be 30cm x 30cm or less, including wheels (No tolerance allowed).",
