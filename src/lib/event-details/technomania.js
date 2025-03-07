@@ -38,7 +38,7 @@ export const technomania = {
             "heading": "General Rules",
             "content": [
                 "This is an offline event that will be held at B.P Poddar Institute of Management and Technology, Kolkata campus.",
-                "Participation must be done in groups. Group size: 3-4 members."
+                "Participation must be done in groups. Group size: 2-4 members."
             ]
         },
         {
