@@ -18,15 +18,15 @@ export const aquarace = {
         "",
     ],
 
-    prelimsDate: "Coming Soon",
+    prelimsDate: "17th March",
     prelimsTiming: [
-        "",
-        "",
+        "B Block Room No 202",
+        "12:00 A.M. - 01:30 P.M. and 2:30 P.M. - 5:30 P.M.",
     ],
-    finalsDate: "Coming Soon",
+    finalsDate: "18th March",
     finalsTiming: [
-        "",
-        "",
+        "B Block Room No 202",
+        "12:00 A.M. - 01:30 P.M. and 2:30 P.M. - 5:30 P.M.",
     ],
 
     rules: [

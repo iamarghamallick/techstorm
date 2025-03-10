@@ -23,10 +23,10 @@ export const passionwithreels = {
         "",
         "",
     ],
-    finalsDate: "Coming Soon",
+    finalsDate: "17th March",
     finalsTiming: [
-        "",
-        "",
+        "B block Seminar Hall",
+        "10:30 A.M. - 1:30 P.M.",
     ],
 
     rules: [

@@ -23,10 +23,10 @@ export const technomania = {
         "",
         "",
     ],
-    finalsDate: "Coming Soon",
+    finalsDate: "18th March",
     finalsTiming: [
-        "",
-        "",
+        "B Block Lab 601, 602",
+        "10:00 A.M. - 1:00 P.M.",
     ],
 
     rules: [

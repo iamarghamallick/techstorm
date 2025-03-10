@@ -23,10 +23,10 @@ export const hackstorm = {
         "",
         "",
     ],
-    finalsDate: "Coming Soon",
+    finalsDate: "18th March",
     finalsTiming: [
-        "",
-        "",
+        "B Block Seminar Hall",
+        "10:30 A.M. - 1:30 P.M.",
     ],
 
     rules: [

@@ -18,15 +18,15 @@ export const efootball = {
         "",
     ],
 
-    prelimsDate: "Coming Soon",
+    prelimsDate: "17th March",
     prelimsTiming: [
-        "",
-        "",
+        "C Block Auditorium 7th Floor",
+        "12:15 P.M. - 1:30 P.M. and 2:30 P.M. - 5:30 P.M.",
     ],
-    finalsDate: "Coming Soon",
+    finalsDate: "18th March",
     finalsTiming: [
-        "",
-        "",
+        "C Block Auditorium 7th Floor",
+        "2:30 P.M. - 5:30 P.M.",
     ],
 
     rules: [
