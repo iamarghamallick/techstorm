@@ -18,15 +18,15 @@ export const rocombat = {
         "",
     ],
 
-    prelimsDate: "Coming Soon",
+    prelimsDate: "",
     prelimsTiming: [
         "",
         "",
     ],
-    finalsDate: "Coming Soon",
+    finalsDate: "17th March",
     finalsTiming: [
-        "",
-        "",
+        "Bot Testing & Playoff Round : C Block",
+        "10:30 A.M. - 5:30 P.M.",
     ],
 
     rules: [

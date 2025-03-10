@@ -4,7 +4,7 @@ export const techhunt = {
     title: "Tech Hunt",
     bgImage: "/assets/events/TechHunt.png",
     icon: "/assets/events/icons/brain-teaser.png",
-    description: "Tech Hunt: The Ultimate Challenge Awaits! Get ready for the Tech Hunt, an exhilarating treasure hunt that combines riddles, puzzles, and strategy like never before! The journey begins with a pen-and-paper riddles round, testing your problem-solving skills and creativity. As the game progresses, you’ll uncover hidden clues, navigate secret locations, and crack complex puzzles—all while racing against time. Each round demands teamwork, speed, and sharp wit to stay ahead in this thrilling adventure. Only the smartest and fastest teams will conquer the challenges and make it to the final showdown. Are you ready to rise to the top and claim ultimate glory? Let the hunt begin!",
+    description: "Tech Hunt: The Ultimate Challenge Awaits! Get ready for the Tech Hunt, an exhilarating treasure hunt that combines riddles, puzzles, and strategy like never before! The journey begins with a pen-and-paper riddles round, testing your problem-solving skills and creativity. As the game progresses, you'll uncover hidden clues, navigate secret locations, and crack complex puzzles—all while racing against time. Each round demands teamwork, speed, and sharp wit to stay ahead in this thrilling adventure. Only the smartest and fastest teams will conquer the challenges and make it to the final showdown. Are you ready to rise to the top and claim ultimate glory? Let the hunt begin!",
 
     registrationLink: "https://forms.gle/csTtGi69TMAA2WRZ9",
     prize: "Exciting Prizes",
@@ -18,15 +18,15 @@ export const techhunt = {
         "",
     ],
 
-    prelimsDate: "Coming Soon",
+    prelimsDate: "18th March",
     prelimsTiming: [
-        "",
-        "",
+        "C Block Auditorium 7th Floor",
+        "10:00 A.M. - 12:00 P.M.",
     ],
-    finalsDate: "Coming Soon",
+    finalsDate: "18th March",
     finalsTiming: [
         "",
-        "",
+        "2:30 A.M. - 5:30 P.M.",
     ],
 
     rules: [

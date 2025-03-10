@@ -25,13 +25,13 @@ export const codebee = {
     ],
     prelimsDate2: "17th March",
     prelimsTiming2: [
-        "(For Outside Participants)",
-        "",
+        "C Block Lab 101, 102, 104, 105, 601, 602",
+        "Qualifier Round 1 : 12:00 P.M. - 1:30 P.M. and Qualifier Round 2 : 2:30 P.M. - 5:30 P.M.",
     ],
-    finalsDate: "Coming Soon",
+    finalsDate: "18th March",
     finalsTiming: [
-        "",
-        "",
+        "C Block Lab 101, 102, 104, 105, 601, 602",
+        "11:00 A.M. - 01:30 P.M.",
     ],
 
     rules: [

@@ -25,13 +25,13 @@ export const omegatrix = {
     ],
     prelimsDate2: "17th March",
     prelimsTiming2: [
-        "(For Outside Participants)",
-        "",
+        "C Block Auditorium 7th Floor",
+        "10:30 A.M. - 12:00 P.M.",
     ],
-    finalsDate: "Coming Soon",
+    finalsDate: "18th March",
     finalsTiming: [
-        "",
-        "",
+        "C Block Auditorium 7th Floor",
+        "12:00 A.M. - 01:30 P.M.",
     ],
 
     rules: [

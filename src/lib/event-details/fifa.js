@@ -18,15 +18,15 @@ export const fifa = {
         "",
     ],
 
-    prelimsDate: "Coming Soon",
+    prelimsDate: "17th March",
     prelimsTiming: [
-        "",
-        "",
+        "C Block Room no 201 Lab 8",
+        "10:30 A.M. - 1:30 P.M. and 2:30 P.M. - 5:30 P.M.",
     ],
-    finalsDate: "Coming Soon",
+    finalsDate: "18th March",
     finalsTiming: [
-        "",
-        "",
+        "C Block Room no 201 Lab 8",
+        "10:30 A.M. - 1:30 P.M.",
     ],
 
     rules: [
