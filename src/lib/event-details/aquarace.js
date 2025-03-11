@@ -18,15 +18,16 @@ export const aquarace = {
         "",
     ],
 
+    prelimsHeading: "Qualifier Round",
     prelimsDate: "17th March",
     prelimsTiming: [
         "B Block Room No 202",
-        "12:00 A.M. - 01:30 P.M. and 2:30 P.M. - 5:30 P.M.",
+        "10:30 A.M. - 1:30 P.M. and 2:30 P.M. - 5:30 P.M.",
     ],
     finalsDate: "18th March",
     finalsTiming: [
         "B Block Room No 202",
-        "12:00 A.M. - 01:30 P.M. and 2:30 P.M. - 5:30 P.M.",
+        "10:30 A.M. - 1:30 P.M. and 2:30 P.M. - 5:30 P.M.",
     ],
 
     rules: [
@@ -69,7 +70,7 @@ export const aquarace = {
         {
             "heading": "Additional Information",
             "content": [
-                "For arena diagram, visit: https://drive.google.com/file/d/12rmL7dUfZ4j_aMyYL5y4rXyhgjWfLeMe/view"
+                "For arena diagram, visit: https://shorturl.at/St1i6"
             ]
         }
     ],

@@ -23,7 +23,7 @@ export const shutterfusion = {
         "",
         "",
     ],
-    finalsDate: "17th March",
+    finalsDate: "18th March",
     finalsTiming: [
         "C Block Student Activity Room",
         "2:30 P.M. - 5:30 P.M.",
