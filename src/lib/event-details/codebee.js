@@ -23,15 +23,16 @@ export const codebee = {
         "(For Inhouse Participants)",
         "",
     ],
+    prelimsHeading2: "Qualifier Rounds",
     prelimsDate2: "17th March",
     prelimsTiming2: [
         "C Block Lab 101, 102, 104, 105, 601, 602",
-        "Qualifier Round 1 : 12:00 P.M. - 1:30 P.M. and Qualifier Round 2 : 2:30 P.M. - 5:30 P.M.",
+        "Round 1 : 12:00 P.M. - 1:30 P.M. and Round 2 : 2:30 P.M. - 5:30 P.M.",
     ],
     finalsDate: "18th March",
     finalsTiming: [
         "C Block Lab 101, 102, 104, 105, 601, 602",
-        "11:00 A.M. - 01:30 P.M.",
+        "2:30 P.M. - 5:00 P.M.",
     ],
 
     rules: [

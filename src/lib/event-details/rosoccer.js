@@ -18,6 +18,7 @@ export const rosoccer = {
         "",
     ],
 
+    prelimsHeading: "Qualifier Round",
     prelimsDate: "17th March",
     prelimsTiming: [
         "B Block Room No 205",

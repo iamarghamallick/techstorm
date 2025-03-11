@@ -18,15 +18,15 @@ export const hackstorm = {
         "",
     ],
 
-    prelimsDate: "",
+    prelimsDate: "18th March",
     prelimsTiming: [
-        "",
-        "",
+        "C Block Lab 101, 102, 104",
+        "10:30 A.M. - 1:30 P.M",
     ],
     finalsDate: "18th March",
     finalsTiming: [
         "B Block Seminar Hall",
-        "10:30 A.M. - 1:30 P.M.",
+        "2:30 P.M. - 5:00 P.M",
     ],
 
     rules: [
