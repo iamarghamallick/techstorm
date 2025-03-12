@@ -53,7 +53,7 @@ export const khet = {
         {
             "heading": "PRELIMS-1",
             "content": [
-                "In each turn, player will get max 2 minutes for the next 30 seconds (-1) will be added, and for the next 30 seconds another (-1) will be added.",
+                "A player gets 1 min 30 seconds (prelims) per move. Reminder will be given at 1 minute. If no move is played in the next 30 seconds. Move will be passed to opponent.",
                 "If he/she does not make any move in the stipulated time, then and there he/she will be eliminated and the opponent shall be declared as the winner.",
                 "For each warning (-3) will be added for breaking any rule (i.e 3 warnings) participants will be then and there eliminated.",
                 "Marks division: Pyramid (5), Anubis (10), Rule breaking (-3).",
@@ -71,13 +71,13 @@ export const khet = {
         {
             "heading": "QUARTER FINAL, SEMIFINAL & FINAL",
             "content": [
-                "In each turn player will get max 2 minutes for next 30 seconds (-1) will be added and for next 30 seconds another (-1) will be added."
+                "A player gets 2 min 30 seconds (QF, SF, Finals) per move. Reminder will be given at 2 minutes. If no move is played in the next 30 seconds. Move will be passed to opponent."
             ]
         },
         {
             "heading": "POINTS TO BE NOTED",
             "content": [
-                "In any circumstances, if it’s found that there are odd number of participants, then the last participant based on the lottery may have to play with the volunteers in the PRELIMS I.",
+                "In any circumstances, if it's found that there are odd number of participants, then the last participant based on the lottery may have to play with the volunteers in the PRELIMS I.",
                 "If there are more than 2^n participants, some participants may get eliminated based on their scores and time taken even though they have won the round or they might have to play another round for tie-breaking after PRELIMS I."
             ]
         },
