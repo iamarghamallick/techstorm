@@ -24,7 +24,7 @@ export const codebeejr = {
         "",
         "",
     ],
-    finalsDate: "Coming Soon",
+    finalsDate: "04th April",
     finalsTiming: [
         "",
         "",

@@ -24,7 +24,7 @@ export const hackstormjr = {
         "",
         "",
     ],
-    finalsDate: "Coming Soon",
+    finalsDate: "04th April",
     finalsTiming: [
         "",
         "",
