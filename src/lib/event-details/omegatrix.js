@@ -6,6 +6,7 @@ export const omegatrix = {
     icon: "/assets/events/icons/brain-teaser.png",
     description: "A dynamic mathematics and reasoning event crafted to ignite your curiosity and sharpen your problem-solving skills! With captivating puzzles, stimulating questions, and an exciting touch of AI/ML, this challenge promises to engage your mind. Open to students of all year. Join us, and let's unlock the power of your mind!",
 
+    registrationInstruction: "Registration for BPPIMT VIP Campus students is now closed. However, registration remains open for BPPIMT Salt Lake Campus students and students from other colleges.",
     registrationLink: "https://forms.gle/hBFsSzdnszCMGBXu9",
     prize: "Exciting Prizes",
 
@@ -31,7 +32,7 @@ export const omegatrix = {
     finalsDate: "18th March",
     finalsTiming: [
         "C Block Auditorium 7th Floor",
-        "12:00 A.M. - 01:30 P.M.",
+        "12:00 P.M. - 01:30 P.M.",
     ],
 
     rules: [
