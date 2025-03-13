@@ -7,6 +7,7 @@ export const hackstorm = {
     description: "Hack Storm is an exciting event where students can present their ideas or solutions using websites or apps based on given problem statements or their own concepts. Participants are encouraged to address real-world challenges and create impactful, innovative solutions to showcase their creativity, technical skills, and problem-solving abilities.",
 
     registrationLink: "https://forms.gle/kdcRUu1vSYVQEQXx7",
+    registrationDeadline: "2025-03-12T23:59:59+05:30",
     prize: "Exciting Prizes",
 
     bppimtRegFees: "₹80",
@@ -14,8 +15,8 @@ export const hackstorm = {
 
     onspotReg: "Available",
     onspotRegInfo: [
-        "",
-        "",
+        "First come, First serve basis",
+        "(Only a few seats left)",
     ],
 
     prelimsDate: "18th March",

@@ -17,6 +17,12 @@ const SingleEventSlug = ({ slug }) => {
         return map;
     }, new Map());
 
+    const registrationStatus = (datetime) => {
+        const deadline = new Date(datetime).getTime();
+        const now = new Date().getTime();
+        return deadline > now;
+    }
+
     const [isValidSlug, setIsValidSlug] = useState(false);
     const [currEvent, setCurrEvent] = useState(null);
 
@@ -146,20 +152,17 @@ const SingleEventSlug = ({ slug }) => {
                         </p>}
 
                         <Link
-                            href={currEvent.registrationLink || "#"}
-                            target={currEvent.registrationLink ? "_blank" : undefined}
-                            className={`${poppins.className} ${currEvent.registrationLink
-                                ? "text-xl text-green-300 hover:scale-[1.02] hover:bg-green-300 hover:text-[#202020]"
-                                : "text-base text-gray-300 pointer-events-none opacity-50"
-                                } w-full text-center uppercase bg-[#202020] rounded-lg font-semibold p-2 border border-green-300 transition-transform transform`}
-                            onClick={(e) => {
-                                if (!currEvent.registrationLink) e.preventDefault();
-                            }}
+                            href={currEvent.registrationLink}
+                            target="_blank"
+                            className={`${poppins.className} ${registrationStatus(currEvent.registrationDeadline)
+                                ? "text-xl text-green-300 hover:scale-[1.02] hover:bg-green-300 hover:text-[#202020] border-green-300"
+                                : "text-base text-gray-300 pointer-events-none opacity-75 border-red-300"
+                                } w-full text-center uppercase bg-[#202020] rounded-lg font-semibold p-2 border transition-transform transform`}
                         >
-                            {currEvent.registrationLink === "" ? "Registration Opening Soon" : "Register Now!"}
+                            {registrationStatus(currEvent.registrationDeadline) ? "Register Now!" : "Registration Closed"}
                         </Link>
                         <span className='text-center'>
-                            <CountdownTimer deadline="2025-03-15T23:59:59+05:30" />
+                            <CountdownTimer deadline={currEvent.registrationDeadline} />
                         </span>
                     </motion.div>
                 </div>

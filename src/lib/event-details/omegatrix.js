@@ -8,15 +8,16 @@ export const omegatrix = {
 
     registrationInstruction: "Registration for BPPIMT VIP Campus students is now closed. However, registration remains open for BPPIMT Salt Lake Campus students and students from other colleges.",
     registrationLink: "https://forms.gle/hBFsSzdnszCMGBXu9",
+    registrationDeadline: "2025-03-16T23:59:59+05:30",
     prize: "Exciting Prizes",
 
     bppimtRegFees: "₹50",
     outsideRegFees: "₹60",
 
-    onspotReg: "Not Available",
+    onspotReg: "Available",
     onspotRegInfo: [
-        "",
-        "",
+        "On 17th March, 08:30 A.M. - 09:30 A.M.",
+        "Ground Floor, Alumini Room",
     ],
 
     prelimsDate: "12th March",

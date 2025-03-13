@@ -7,6 +7,7 @@ export const roterrance = {
     description: "Ro-terrance it's an event where your bot has to cross different kinds of terrain and hurdles to reach the final destination. The bot has to be manually controlled and can be both wired and wireless.",
 
     registrationLink: "https://forms.gle/y1sgTZfRVmN3q5a6A",
+    registrationDeadline: "2025-03-15T23:59:59+05:30",
     prize: "Exciting Rewards",
 
     bppimtRegFees: "",

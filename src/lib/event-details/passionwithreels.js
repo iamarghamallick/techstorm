@@ -7,6 +7,7 @@ export const passionwithreels = {
     description: "Are you a passionate storyteller who wants to showcase your creative storytelling skills? Join us for an exhilarating short movie making competition, 'Passion with Reels,' where imagination knows no bounds and storytelling comes alive through the magic of reels. This event promises a platform for participants to bring their cinematic vision to life. Let your passion for filmmaking shine through every frame, and get ready to mesmerize the world with your cinematic masterpiece!",
 
     registrationLink: "https://forms.gle/1xN1s3iVuUfCBJfp6",
+    registrationDeadline: "2025-03-14T23:59:59+05:30",
     prize: "Exciting Prizes",
 
     bppimtRegFees: "₹150",
