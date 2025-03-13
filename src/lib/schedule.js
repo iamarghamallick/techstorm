@@ -138,7 +138,7 @@ export const day1 = [
 export const day2 = [
     {
         sl: 1,
-        timing: "10:00 A.M. -1:00 P.M.",
+        timing: "10:00 A.M. - 1:00 P.M.",
         name: "Technomania (B Block Lab 601, 602)",
         round: "Final",
     },
@@ -196,7 +196,7 @@ export const day2 = [
     },
     {
         sl: 6,
-        timing: "12:00 A.M. - 01:30 P.M.",
+        timing: "12:00 P.M. - 01:30 P.M.",
         name: "Omegatrix (C Block Auditorium 7th Floor)",
         round: "Final",
     },

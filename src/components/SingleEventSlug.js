@@ -7,6 +7,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/navigation'
 import React, { useEffect, useState } from 'react'
 import { motion } from 'framer-motion';
+import CountdownTimer from './CountdownTimer';
 
 const SingleEventSlug = ({ slug }) => {
     const router = useRouter();
@@ -141,6 +142,7 @@ const SingleEventSlug = ({ slug }) => {
                             className={`${poppins.className} text-xs md:text-base font-semibold px-2`}
                         >
                             {currEvent.registrationInstruction}
+
                         </p>}
 
                         <Link
@@ -156,6 +158,9 @@ const SingleEventSlug = ({ slug }) => {
                         >
                             {currEvent.registrationLink === "" ? "Registration Opening Soon" : "Register Now!"}
                         </Link>
+                        <span className='text-center'>
+                            <CountdownTimer deadline="2025-03-15T23:59:59+05:30" />
+                        </span>
                     </motion.div>
                 </div>
 
