@@ -161,9 +161,9 @@ const SingleEventSlug = ({ slug }) => {
                         >
                             {registrationStatus(currEvent.registrationDeadline) ? "Register Now!" : "Registration Closed"}
                         </Link>
-                        <span className='text-center'>
+                        {!currEvent.link_title.endsWith("jr") && <span className='text-center'>
                             <CountdownTimer deadline={currEvent.registrationDeadline} />
-                        </span>
+                        </span>}
                     </motion.div>
                 </div>
 
