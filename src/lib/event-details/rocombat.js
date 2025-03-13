@@ -7,6 +7,7 @@ export const rocombat = {
     description: "Ro-combat is an event where two huge metal masses clash together till an ultimatum. Bots are all manually operated and must be controlled wirelessly; no wired bots will be allowed.",
 
     registrationLink: "https://forms.gle/EwDHiq6haesjenKdA",
+    registrationDeadline: "2025-03-15T23:59:59+05:30",
     prize: "Exciting Prizes",
 
     bppimtRegFees: "",

@@ -7,6 +7,7 @@ export const techhunt = {
     description: "Tech Hunt: The Ultimate Challenge Awaits! Get ready for the Tech Hunt, an exhilarating treasure hunt that combines riddles, puzzles, and strategy like never before! The journey begins with a pen-and-paper riddles round, testing your problem-solving skills and creativity. As the game progresses, you'll uncover hidden clues, navigate secret locations, and crack complex puzzles—all while racing against time. Each round demands teamwork, speed, and sharp wit to stay ahead in this thrilling adventure. Only the smartest and fastest teams will conquer the challenges and make it to the final showdown. Are you ready to rise to the top and claim ultimate glory? Let the hunt begin!",
 
     registrationLink: "https://forms.gle/csTtGi69TMAA2WRZ9",
+    registrationDeadline: "2025-03-12T23:59:59+05:30",
     prize: "Exciting Prizes",
 
     bppimtRegFees: "",
@@ -15,7 +16,7 @@ export const techhunt = {
     onspotReg: "Available",
     onspotRegInfo: [
         "(Limited - First come, First serve basis)",
-        "",
+        "Ground Floor, Alumini Room",
     ],
 
     prelimsDate: "18th March",

@@ -7,6 +7,7 @@ export const khet = {
     description: "The Laser Game KHET 2.0: Mind-blowing laser fun for players ages 9-99. Using simple rules that can be learned in minutes, players alternate turns moving Egyptian-themed mirrored pieces, then fire their REAL (eye-safe) laser with the goal of blasting their opponent's PHARAOH to win. BASIC GEOMETRICAL CONCEPT IS THE KEY FACTOR IN THIS GAME.",
 
     registrationLink: "https://forms.gle/ucCh2WwamBWBsCCm9",
+    registrationDeadline: "2025-03-15T23:59:59+05:30",
     prize: "Exciting Prizes",
 
     bppimtRegFees: "",
@@ -14,8 +15,8 @@ export const khet = {
 
     onspotReg: "Available",
     onspotRegInfo: [
-        "",
-        "",
+        "Only a few seats left (first come, first serve basis)",
+        "Ground Floor, Alumini Room",
     ],
 
     prelimsHeading: "Qualifier Round",

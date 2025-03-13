@@ -7,6 +7,7 @@ export const shutterfusion = {
     description: "'Shutter Fusion' is an exhilarating photography event where creativity meets technology! Showcase your talent by capturing stunning moments that blend innovation, art, and storytelling. Open to all photography enthusiasts, this competition celebrates unique perspectives and technical mastery. Join us to freeze time and craft memories that inspire and amaze!",
 
     registrationLink: "https://forms.gle/VHC2Z3XAUztE2s2U8",
+    registrationDeadline: "2025-03-14T23:59:59+05:30",
     prize: "Exciting Prizes",
 
     bppimtRegFees: "₹50",

@@ -7,6 +7,7 @@ export const rosoccer = {
     description: "Get ready for the ULTIMATE showdown in RO SOCCER! Two powerful robots, designed and controlled by brilliant minds, clash in an electrifying 1v1 battle. Watch as they unleash speed, agility, and precision to outsmart their rival and score the winning goal. Witness the thrill, strategy, and intensity of this robotic duel—don't miss the action!",
 
     registrationLink: "https://forms.gle/D6BemzYhJnWu6qPi9",
+    registrationDeadline: "2025-03-15T23:59:59+05:30",
     prize: "Exciting Prizes",
 
     bppimtRegFees: "",
