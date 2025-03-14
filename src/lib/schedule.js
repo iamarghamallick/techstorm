@@ -139,7 +139,7 @@ export const day2 = [
     {
         sl: 1,
         timing: "10:00 A.M. - 1:00 P.M.",
-        name: "Technomania (B Block Lab 601, 602)",
+        name: "Technomania (B Block Lab 602 & 603)",
         round: "Final",
     },
     {
