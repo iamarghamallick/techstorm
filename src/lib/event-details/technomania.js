@@ -26,7 +26,7 @@ export const technomania = {
     ],
     finalsDate: "18th March",
     finalsTiming: [
-        "B Block Lab 601, 602",
+        "B Block Lab 602 & 603",
         "10:00 A.M. - 1:00 P.M.",
     ],
 
