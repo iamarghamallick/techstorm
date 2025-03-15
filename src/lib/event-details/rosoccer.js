@@ -15,7 +15,7 @@ export const rosoccer = {
 
     onspotReg: "Available",
     onspotRegInfo: [
-        "",
+        "Alumini Room, Ground Floor",
         "",
     ],
 

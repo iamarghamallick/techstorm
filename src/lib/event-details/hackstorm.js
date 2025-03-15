@@ -15,7 +15,7 @@ export const hackstorm = {
 
     onspotReg: "Available",
     onspotRegInfo: [
-        "First come, First serve basis",
+        "Alumini Room, Ground Floor",
         "(Only a few seats left)",
     ],
 

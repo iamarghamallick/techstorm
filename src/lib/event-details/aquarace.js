@@ -15,7 +15,7 @@ export const aquarace = {
 
     onspotReg: "Available",
     onspotRegInfo: [
-        "",
+        "Alumini Room, Ground Floor",
         "",
     ],
 
