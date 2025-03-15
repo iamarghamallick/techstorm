@@ -15,7 +15,7 @@ export const ronavigator = {
 
     onspotReg: "Available",
     onspotRegInfo: [
-        "",
+        "Alumini Room, Ground Floor",
         "",
     ],
 

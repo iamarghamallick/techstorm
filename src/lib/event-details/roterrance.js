@@ -15,7 +15,7 @@ export const roterrance = {
 
     onspotReg: "Available",
     onspotRegInfo: [
-        "",
+        "Alumini Room, Ground Floor",
         "",
     ],
 

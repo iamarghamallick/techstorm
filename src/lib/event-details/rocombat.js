@@ -15,7 +15,7 @@ export const rocombat = {
 
     onspotReg: "Available",
     onspotRegInfo: [
-        "",
+        "Alumini Room, Ground Floor",
         "",
     ],
 
