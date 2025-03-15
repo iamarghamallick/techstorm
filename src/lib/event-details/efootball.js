@@ -7,7 +7,7 @@ export const efootball = {
     description: "Join us for an exciting eFootball Mobile Tournament and showcase your gaming skills! Compete in intense matches with top players, adhering to unique rules and collective strength limits. Experience the thrill of prelims and finals, where strategy and precision determine the champion. Open to all gaming enthusiasts, this event promises competitive gameplay and loads of fun. Don't miss your chance to claim the title and amazing prizes. Get ready to play, compete, and win!",
 
     registrationLink: "https://forms.gle/i7p3o1YbyW7BCNdU9",
-    registrationDeadline: "2025-03-15T23:59:59+05:30",
+    registrationDeadline: "2025-03-16T23:59:59+05:30",
     prize: "Exciting Prizes",
 
     bppimtRegFees: "₹50",

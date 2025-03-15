@@ -7,7 +7,7 @@ export const ronavigator = {
     description: "Ro-Navigator is an exhilarating event that brings together top-notch line-following robots in a captivating competition. These robots showcase their precision, speed, and strategic abilities as they navigate through complex mazes. Spectators are treated to an exciting display of robotics prowess as these sleek machines race towards victory.",
 
     registrationLink: "https://forms.gle/sLAELvYitxwghKJu8",
-    registrationDeadline: "2025-03-15T23:59:59+05:30",
+    registrationDeadline: "2025-03-16T23:59:59+05:30",
     prize: "Exciting Prizes",
 
     bppimtRegFees: "",
