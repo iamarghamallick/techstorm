@@ -8,7 +8,7 @@ export const technomaniajr = {
 
     registrationInstruction: "This event is for SCHOOL and DIPLOMA students only. If you are a COLLEGE student, please do not register in this event.",
     registrationLink: "https://forms.gle/pa1X4gALddFEQ1H27",
-    registrationDeadline: "2025-03-31T23:59:59+05:30",
+    registrationDeadline: "2025-04-03T23:59:59+05:30",
     prize: "Exciting Prizes",
 
     bppimtRegFees: "",

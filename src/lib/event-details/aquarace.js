@@ -7,7 +7,7 @@ export const aquarace = {
     description: "Aqua race is an event where participants build a manually controlled boat to sail through obstacles in the arena. The boat should be wireless and powered by batteries, and the goal is to complete the race track in the minimum time to win.",
 
     registrationLink: "https://forms.gle/7MATJLHqip6TE2Gg6",
-    registrationDeadline: "2025-03-16T23:59:59+05:30",
+    registrationDeadline: "2025-03-18T11:59:59+05:30",
     prize: "Exciting Prizes",
 
     bppimtRegFees: "",
