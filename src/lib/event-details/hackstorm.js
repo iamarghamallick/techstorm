@@ -22,7 +22,7 @@ export const hackstorm = {
     prelimsDate: "18th March",
     prelimsTiming: [
         "C Block Lab 101, 102, 104",
-        "10:30 A.M. - 1:30 P.M",
+        "10:00 A.M. - 1:30 P.M",
     ],
     finalsDate: "18th March",
     finalsTiming: [

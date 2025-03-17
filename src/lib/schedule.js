@@ -190,7 +190,7 @@ export const day2 = [
     },
     {
         sl: 5,
-        timing: "10:30 A.M. - 1:30 P.M",
+        timing: "10:00 A.M. - 1:30 P.M",
         name: "Hackstorm (C block Lab 101, 102, 104)",
         round: "Prelims",
     },
